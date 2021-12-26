@@ -54,15 +54,15 @@
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JAVA](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=Python&logoColor=white)
+![JAVA](https://img.shields.io/badge/-Java-yellow?style=flat-square&logoColor=white)
   
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-red?style=flat-square&logo=Altium-Designer&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-red?style=flat-square&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=Altium-Designer&logoColor=white)
   
-![IBM SPSS Statistics 19](https://img.shields.io/badge/-%20IBM%20SPSS%20Statistics%2019-blue?style=flat-square&logo=Altium-Designer&logoColor=white)
-![STM32 ST-LINK Utility](https://img.shields.io/badge/-STM32%20ST--LINK%20Utility-blue?style=flat-square&logo=Altium-Designer&logoColor=white)
+![IBM SPSS Statistics 19](https://img.shields.io/badge/-%20IBM%20SPSS%20Statistics%2019-blue?style=flat-square&logoColor=white)
+![STM32 ST-LINK Utility](https://img.shields.io/badge/-STM32%20ST--LINK%20Utility-blue?style=flat-square&logoColor=white)
 
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-444444?style=flat-square&logo=android-studio&logoColor=3DDC84)

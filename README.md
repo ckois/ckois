@@ -1,12 +1,16 @@
 ### CKOIS
 **A learning Makers.**
-<table>
 <tr>
 <td style = "width: 50%;">
 ## 📇 Learning:
+  
 - `Android`
-- `ESP32`
-- `STM32`
+  
+- `iot`
+  
+- `yolo`
+  
+- `Slam`
   
 ## 👔 Development Experience
 - Stack
@@ -35,11 +39,11 @@
 <td style = "width: 50%;">
   
 ##  📈Dash Board:
-![](https://count.getloli.com/get/@kmakise.github.readme)
+![](https://count.getloli.com/get/@ckois.github.readme)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmakise&text_color=FFFF00&bg_color=282828&hide=HTML,Tex&layout=compact)](https://ckois.cn/) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckois&text_color=FFFF00&bg_color=282828&hide=HTML,Tex&layout=compact)](https://ckois.cn/) 
   
-[![Kmakise's github stats](https://github-readme-stats.vercel.app/api?username=ckois&show_icons=true&icon_color=FF8C00&text_color=FFFF00&bg_color=282828&hide_title=true")](https://ckois.cn/)  
+[![ckois's github stats](https://github-readme-stats.vercel.app/api?username=ckois&show_icons=true&icon_color=FF8C00&text_color=FFFF00&bg_color=282828&hide_title=true")](https://ckois.cn/)  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckois&theme=monokai)
  

@@ -1,5 +1,6 @@
 ### CKOIS
 **A learning Makers.**
+<table>
 <tr>
 <td style = "width: 50%;">
 ## 📇 Learning:

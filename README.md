@@ -44,7 +44,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckois&text_color=FFFF00&bg_color=282828&hide=HTML,Tex&layout=compact)](https://ckois.cn/) 
   
-[![ckois's github stats](https://github-readme-stats.vercel.app/api?username=ckois&show_icons=true&icon_color=FF8C00&text_color=FFFF00&bg_color=282828&hide_title=true")](https://ckois.cn/)  
+[![ckois's github stats](https://github-readme-stats.vercel.app/api?username=ckois&show_icons=true&icon_color=FF8C00&text_color=FFFF00&bg_color=282828&hide_title=true")](http://ckois.cn/)  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckois&theme=monokai)
  
